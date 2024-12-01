@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/de58fffb-5e0f-465c-9626-17597fc058c9)
+
 # Credit Risk Evaluation and Interactive Dashboard
 This project implements a comprehensive credit risk evaluation system and an interactive dashboard for exploring the relationships between borrower demographics and loan interest rates. The dashboard allows users to visualize key factors influencing loan approval and interest rate decisions, such as income, age, credit history, and loan amount distributions.
 
